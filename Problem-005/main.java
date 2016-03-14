@@ -11,7 +11,6 @@ public class main {
 		for (int sol = 2520; true; sol += 20) {
 			if (test(sol)) {
 				System.out.println("Smallest Passing Multiple: " + sol);
-
 				break;
 			}
 		}
@@ -23,7 +22,6 @@ public class main {
 				return false;
 			}
 		}
-
 		return true;
 	}
 }
