@@ -8,4 +8,4 @@ Find the largest palindrome made from the product of two 3-digit numbers.
 Sample run:
 ************************************************************************************************************************************************************
 
-Largest Palindrome: 906609
+    Largest Palindrome: 906609
