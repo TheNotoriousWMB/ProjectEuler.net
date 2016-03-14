@@ -8,4 +8,4 @@ What is the smallest positive number that is evenly divisible by all of the numb
 Sample run:
 ************************************************************************************************************************************************************
 
-Smallest Passing Multiple: 232792560
+    Smallest Passing Multiple: 232792560
